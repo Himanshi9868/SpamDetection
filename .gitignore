@@ -1,0 +1,4 @@
+/.ipynb_checkpoints
+/model.pkl
+/spam.csv
+/vectorizer.pkl
